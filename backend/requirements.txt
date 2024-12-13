@@ -1,0 +1,7 @@
+Flask
+Flask-CORS
+python-dotenv
+llama-index
+llama-index-embeddings-together
+llama-index-llms-together
+torch
